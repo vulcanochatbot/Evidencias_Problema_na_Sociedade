@@ -1,6 +1,8 @@
 # Evidencias_Probrema_na_Sociedade
 Neste repositório explicamos, de forma simples, por que a contratação na construção civil emperra: muita informalidade, perfis desencontrados, canais de recrutamento dispersos e barreiras de letramento digital (uso só do celular). Mostramos como isso vira atrasos, custos e exclusão.
 
+---
+
 # Evidências do Problema na Sociedade
 
 * ### Informalidade elevada e persistente no Brasil: a taxa anual de informalidade ficou em ~39% em 2024 (PNAD Contínua). 
@@ -14,6 +16,8 @@ Neste repositório explicamos, de forma simples, por que a contratação na cons
 * ### Acesso predominantemente móvel: em 2024, 60% dos usuários acessaram a Internet apenas pelo celular (TIC Domicílios 2024/2025). 
 
 * ### Barreiras de letramento digital: entre domicílios sem Internet em 2023, o motivo nº1 foi “nenhum morador sabia usar a Internet”; entre não-usuários em 2024, “falta de habilidade” aparece como razão majoritária. 
+
+---
 
 # Fontes principais desta seção:
 
