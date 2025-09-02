@@ -21,7 +21,7 @@ Neste repositório explicamos, de forma simples, por que a contratação na cons
 
 # Fontes principais desta seção:
 
-* ## IBGE/PNAD Contínua (releases 2024–2025); 
-* ## FGV IBRE – Sondagem da Construção (posts de 2024); 
-* ## CNI – Sondagem Indústria da Construção (relatórios 2025); 
-* ## CGI.br/NIC.br – TIC Domicílios 2023–2024 (livro, resumo executivo e bases).
+* ### IBGE/PNAD Contínua (releases 2024–2025); 
+* ### FGV IBRE – Sondagem da Construção (posts de 2024); 
+* ### CNI – Sondagem Indústria da Construção (relatórios 2025); 
+* ### CGI.br/NIC.br – TIC Domicílios 2023–2024 (livro, resumo executivo e bases).
